@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "bac2ea2d-6cf5-4fc9-8211-55195fbab845",
+		"name": "Consumir Api Whatsapp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28655217"
+	},
+	"item": [
+		{
+			"name": "Token",
+			"item": [
+				{
+					"name": "Token",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "tarea",
+			"item": [
+				{
+					"name": "api_wha",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
